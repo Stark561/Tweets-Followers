@@ -17,7 +17,6 @@ export const CardWrapper = styled.div`
   );
   border-radius: 20px;
   padding: 28px 36px 36px;
-
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
